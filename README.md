@@ -2,6 +2,8 @@
 
 - Pour test:
 
+Télécharger le dossier puis ouvrir dans votre éditeur de code préféré puis lancez les commandes suivantes:
+
 1 - npm i 
 
 2 - npm run server
