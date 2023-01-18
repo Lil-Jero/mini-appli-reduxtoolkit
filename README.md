@@ -2,7 +2,7 @@
 
 - Pour test:
 
-Télécharger le dossier puis ouvrir dans votre éditeur de code préféré puis lancez les commandes suivantes:
+Télécharger le dossier et ouvrir dans votre éditeur de code préféré puis lancez les commandes suivantes:
 
 1 - npm i 
 
